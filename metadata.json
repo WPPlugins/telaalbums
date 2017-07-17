@@ -1,0 +1,9 @@
+{
+    "name" : "Telaaedifex's Albums",
+    "version" : "1.3.4",
+    "author" : "Isaac Brown",
+    "download_url" : "https:/telaaedifex.com/projects/telaalbums/",
+    "sections" : {
+        "description" : "The best rated Picasa plugin for Wordpress, Telaaedifex's Albums, allows you to display public and private (unlisted) Picasa albums on your site in your language! Previously supported by smccandl stopped in 2010 I have recently started recoding and updating this plugin."
+    }
+}
